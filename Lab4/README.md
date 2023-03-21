@@ -4,6 +4,7 @@
 
 ### Результати роботи
 
-![one](./assets/1.png)
+<img src="./assets/1.png" alt="one" height="300">
+<!-- ![one](./assets/1.png) -->
 ![two](./assets/2.png)
 ![three](./assets/3.png)
