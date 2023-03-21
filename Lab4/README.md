@@ -4,7 +4,7 @@
 
 ### Результати роботи
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; text-align: center;">
 	<img src="./assets/1.png" alt="one" height="400">
 	<img src="./assets/2.png" alt="two" height="400">
 	<img src="./assets/3.png" alt="two" height="400">
