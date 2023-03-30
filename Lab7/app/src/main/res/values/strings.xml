@@ -1,0 +1,9 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="menu_select_color">Select Color</string>
+    <string name="menu_clear_image">Clear</string>
+    <string name="menu_save_image">Save</string>
+    <string name="menu_last_save_info">Last Save Info</string>
+    <string name="saved_image_path_key">lastSavedImagePathKey</string>
+</resources>
