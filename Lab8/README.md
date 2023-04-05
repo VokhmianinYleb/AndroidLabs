@@ -6,4 +6,4 @@
 
 ### Результати роботи:
 
-![assets/1.gif]
+<img src="./assets/1.gif" alt="one" height="400">
