@@ -1,0 +1,8 @@
+<!-- strings.xml -->
+
+<resources>
+    <string name="app_name">Lab8</string>
+    <string name="menu_select_color_one">Колір 3-кутника</string>
+    <string name="menu_select_color_two">Колір 4-кутника</string>
+    <string name="menu_select_color_three">Колір 6-кутника</string>
+</resources>
